@@ -22,3 +22,4 @@ let isPalindrom = (str) => {
     return str === str.split('').reverse().join('');
 };
 console.log(isPalindrom('nan'))
+loggit
